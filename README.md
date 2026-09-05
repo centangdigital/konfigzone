@@ -1,0 +1,2 @@
+# konfigzone
+Update konfig hc
